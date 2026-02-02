@@ -9,3 +9,9 @@ class VelocityReadError(MovementError):
 
 class PositionWriteError(MovementError):
     pass
+
+class AngleReadError(Exception):
+    pass
+
+class AngleWriteError(Exception):
+    pass
