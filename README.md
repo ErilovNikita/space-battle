@@ -1,4 +1,4 @@
-# Space Battle — Игровой сервер (SOLID, Python)
+# Space Battle (SOLID, Python)
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
