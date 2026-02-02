@@ -1,6 +1,7 @@
 # Space Battle (SOLID, Python)
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2FErilovNikita%2Fspace-battle%2Frefs%2Fheads%2Fdev%2Fpyproject.toml)
 
 Проект реализует логику движения объектов в игровом поле.  
 Проект построен согласно **SOLID-принципам**, с фокусом на расширяемость, тестируемость и понятную архитектуру для будущего роста и новых игровых механик.
